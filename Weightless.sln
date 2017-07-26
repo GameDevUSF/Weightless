@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weightless.CSharp", "Weightless.CSharp.csproj", "{AAF07C00-7919-BCE4-3616-8C27B436C36B}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weightless", "Weightless.csproj", "{8C5B8595-E30E-DCA7-CBDB-129318162799}"
+>>>>>>> 5628d2a9a0fe32474b4388570b705931035dd67c
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
