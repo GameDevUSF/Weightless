@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 75faa8ec166bd1540937ae4a5ed8b343
 folderAsset: yes
 timeCreated: 1500907445
+=======
+guid: ff6f68108e846be419381865f559e1d2
+folderAsset: yes
+timeCreated: 1500920220
+>>>>>>> Jody
 licenseType: Free
 DefaultImporter:
   userData: 
