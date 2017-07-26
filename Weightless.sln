@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weightless", "Weightless.csproj", "{8C5B8595-E30E-DCA7-CBDB-129318162799}"
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weightless.CSharp", "Weightless.CSharp.csproj", "{AAF07C00-7919-BCE4-3616-8C27B436C36B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8C5B8595-E30E-DCA7-CBDB-129318162799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C5B8595-E30E-DCA7-CBDB-129318162799}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C5B8595-E30E-DCA7-CBDB-129318162799}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C5B8595-E30E-DCA7-CBDB-129318162799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF07C00-7919-BCE4-3616-8C27B436C36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF07C00-7919-BCE4-3616-8C27B436C36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF07C00-7919-BCE4-3616-8C27B436C36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF07C00-7919-BCE4-3616-8C27B436C36B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
