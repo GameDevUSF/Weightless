@@ -2,13 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weightless", "Weightless.csproj", "{8C5B8595-E30E-DCA7-CBDB-129318162799}"
-<<<<<<< HEAD
-=======
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weightless.Plugins", "Weightless.Plugins.csproj", "{1683D886-2B97-2DA4-A87F-0EA0780CF750}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weightless.Editor.Plugins", "Weightless.Editor.Plugins.csproj", "{BAC2DF05-025D-A363-86DF-52CB5FA6DEC4}"
->>>>>>> Luke-3
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,8 +17,6 @@ Global
 		{8C5B8595-E30E-DCA7-CBDB-129318162799}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C5B8595-E30E-DCA7-CBDB-129318162799}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C5B8595-E30E-DCA7-CBDB-129318162799}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
-=======
 		{1683D886-2B97-2DA4-A87F-0EA0780CF750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1683D886-2B97-2DA4-A87F-0EA0780CF750}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1683D886-2B97-2DA4-A87F-0EA0780CF750}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -30,7 +25,6 @@ Global
 		{BAC2DF05-025D-A363-86DF-52CB5FA6DEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAC2DF05-025D-A363-86DF-52CB5FA6DEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAC2DF05-025D-A363-86DF-52CB5FA6DEC4}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> Luke-3
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
